@@ -13,4 +13,6 @@ Task Manager is a simple To-Do List Application built with Python, Tkinter (GUI)
 
 ✅ User-Friendly Interface – Simple GUI with Tkinter
 
-By: Smruti Singh
+
+
+DEPLOYED BY : SMRUTI SINGH
